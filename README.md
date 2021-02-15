@@ -1,1 +1,2 @@
-# Zchat
+# ZChat
+A simple chat application
